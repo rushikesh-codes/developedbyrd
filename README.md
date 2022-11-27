@@ -28,10 +28,9 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/rushikesh-codes/developedbyrd.git) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
-  ```
+  
 
 - Navigate to `cd portfolio---react`  directory.
 
