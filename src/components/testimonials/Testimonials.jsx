@@ -50,7 +50,7 @@ const Testimonials = () => {
     },
   ];
   return (
-    <section id="testmonials">
+    <section id="testimonials">
       <h5>Feedback from my peers</h5>
       <h2>Testimonials</h2>
       <Swiper 
